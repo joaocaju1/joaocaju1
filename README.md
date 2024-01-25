@@ -1,11 +1,11 @@
 <div>
   
   <h1 align="center">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-pretti-genari-502bab251/">Me chamo João Guilherme</a>
+<!--     <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-pretti-genari-502bab251/">Me chamo João Guilherme</a> -->
   </h1>
   
   <p align="center">
-   Desenvolvo aplicações FullStaks e SQL.
+Desenvolvedor FullStack.
   </p>
   
 </div>
